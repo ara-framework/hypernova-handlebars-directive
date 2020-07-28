@@ -20,6 +20,6 @@
     "eslint-plugin-import": "^2.17.3"
   },
   "dependencies": {
-    "uuid": "^3.3.2"
+    "uuid": "^8.3.0"
   }
 }
